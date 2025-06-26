@@ -29,4 +29,6 @@ The computer name appears under Computer name, domain, and workgroup settings.
 https://support.microsoft.com/en-gb/office/do-you-need-help-locating-your-computer-name-00384381-8aa9-4398-b81b-475f09fed618
 
 
-
+__FIles created during the Video__\
+[PC-A221-PC010.txt](https://github.com/user-attachments/files/20927430/PC-A221-PC010.txt)
+[CMD Output.txt](https://github.com/user-attachments/files/20927446/CMD.Output.txt)
